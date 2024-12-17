@@ -1,0 +1,175 @@
+Feature,Description
+time,The date of the recorded data in YYYY-MM-DD format.
+open,The opening value of the asset or index for the day.
+high,The highest value of the asset or index for the day.
+low,The lowest value of the asset or index for the day.
+close,The closing value of the asset or index for the day.
+dxy_open,The opening value of the US Dollar Index (DXY) for the day.
+dxy_close,The closing value of the US Dollar Index (DXY) for the day.
+dxy_high,The highest value of the US Dollar Index (DXY) for the day.
+dxy_low,The lowest value of the US Dollar Index (DXY) for the day.
+fred_fedfunds_close,The closing value of the Federal Funds Rate for the day.
+usintr_close,The closing value of the US interest rate for the day.
+usiryy_close,The closing value of the US 10-year Treasury yield for the day.
+uscons_close,The closing value of the US consumer confidence index for the day.
+usunemp_close,The closing value of the US unemployment rate for the day.
+nasdaq_open,The opening value of the NASDAQ index for the day.
+nasdaq_close,The closing value of the NASDAQ index for the day.
+nasdaq_high,The highest value of the NASDAQ index for the day.
+nasdaq_low,The lowest value of the NASDAQ index for the day.
+nya_open,The opening value of the NYSE Composite index for the day.
+nya_close,The closing value of the NYSE Composite index for the day.
+nya_high,The highest value of the NYSE Composite index for the day.
+nya_low,The lowest value of the NYSE Composite index for the day.
+sp500_open,The opening value of the S&P 500 index for the day.
+sp500_close,The closing value of the S&P 500 index for the day.
+sp500_high,The highest value of the S&P 500 index for the day.
+sp500_low,The lowest value of the S&P 500 index for the day.
+light_crude_oil_open,The opening value of light crude oil prices for the day.
+light_crude_oil_close,The closing value of light crude oil prices for the day.
+light_crude_oil_high,The highest value of light crude oil prices for the day.
+light_crude_oil_low,The lowest value of light crude oil prices for the day.
+btc_open,The opening value of Bitcoin (BTC) for the day.
+btc_close,The closing value of Bitcoin (BTC) for the day.
+btc_high,The highest value of Bitcoin (BTC) for the day.
+btc_low,The lowest value of Bitcoin (BTC) for the day.
+total_crypto_cap_open,The opening value of the total cryptocurrency market capitalization for the day.
+total_crypto_cap_close,The closing value of the total cryptocurrency market capitalization for the day.
+total_crypto_cap_high,The highest value of the total cryptocurrency market capitalization for the day.
+total_crypto_cap_low,The lowest value of the total cryptocurrency market capitalization for the day.
+gold_RSI,The Relative Strength Index (RSI) of gold prices.
+gold_MACD,The Moving Average Convergence Divergence (MACD) of gold prices.
+gold_MACD_signal,The signal line of the MACD for gold prices.
+gold_MACD_hist,The histogram of the MACD for gold prices.
+gold_ADX,The Average Directional Index (ADX) of gold prices.
+gold_CCI,The Commodity Channel Index (CCI) of gold prices.
+gold_ROC,The Rate of Change (ROC) of gold prices.
+gold_SMA_10,The 10-day Simple Moving Average (SMA) of gold prices.
+gold_SMA_20,The 20-day Simple Moving Average (SMA) of gold prices.
+gold_EMA_10,The 10-day Exponential Moving Average (EMA) of gold prices.
+gold_EMA_20,The 20-day Exponential Moving Average (EMA) of gold prices.
+gold_SMA_50,The 50-day Simple Moving Average (SMA) of gold prices.
+gold_EMA_50,The 50-day Exponential Moving Average (EMA) of gold prices.
+gold_SMA_100,The 100-day Simple Moving Average (SMA) of gold prices.
+gold_SMA_200,The 200-day Simple Moving Average (SMA) of gold prices.
+gold_EMA_100,The 100-day Exponential Moving Average (EMA) of gold prices.
+gold_EMA_200,The 200-day Exponential Moving Average (EMA) of gold prices.
+dxy_RSI,The Relative Strength Index (RSI) of the US Dollar Index (DXY).
+dxy_MACD,The Moving Average Convergence Divergence (MACD) of the US Dollar Index (DXY).
+dxy_MACD_signal,The signal line of the MACD for the US Dollar Index (DXY).
+dxy_MACD_hist,The histogram of the MACD for the US Dollar Index (DXY).
+dxy_ADX,The Average Directional Index (ADX) of the US Dollar Index (DXY).
+dxy_CCI,The Commodity Channel Index (CCI) of the US Dollar Index (DXY).
+dxy_ROC,The Rate of Change (ROC) of the US Dollar Index (DXY).
+dxy_SMA_10,The 10-day Simple Moving Average (SMA) of the US Dollar Index (DXY).
+dxy_SMA_20,The 20-day Simple Moving Average (SMA) of the US Dollar Index (DXY).
+dxy_EMA_10,The 10-day Exponential Moving Average (EMA) of the US Dollar Index (DXY).
+dxy_EMA_20,The 20-day Exponential Moving Average (EMA) of the US Dollar Index (DXY).
+dxy_SMA_50,The 50-day Simple Moving Average (SMA) of the US Dollar Index (DXY).
+dxy_EMA_50,The 50-day Exponential Moving Average (EMA) of the US Dollar Index (DXY).
+dxy_SMA_100,The 100-day Simple Moving Average (SMA) of the US Dollar Index (DXY).
+dxy_SMA_200,The 200-day Simple Moving Average (SMA) of the US Dollar Index (DXY).
+dxy_EMA_100,The 100-day Exponential Moving Average (EMA) of the US Dollar Index (DXY).
+dxy_EMA_200,The 200-day Exponential Moving Average (EMA) of the US Dollar Index (DXY).
+nasdaq_RSI,The Relative Strength Index (RSI) of the NASDAQ index.
+nasdaq_MACD,The Moving Average Convergence Divergence (MACD) of the NASDAQ index.
+nasdaq_MACD_signal,The signal line of the MACD for the NASDAQ index.
+nasdaq_MACD_hist,The histogram of the MACD for the NASDAQ index.
+nasdaq_ADX,The Average Directional Index (ADX) of the NASDAQ index.
+nasdaq_CCI,The Commodity Channel Index (CCI) of the NASDAQ index.
+nasdaq_ROC,The Rate of Change (ROC) of the NASDAQ index.
+nasdaq_SMA_10,The 10-day Simple Moving Average (SMA) of the NASDAQ index.
+nasdaq_SMA_20,The 20-day Simple Moving Average (SMA) of the NASDAQ index.
+nasdaq_EMA_10,The 10-day Exponential Moving Average (EMA) of the NASDAQ index.
+nasdaq_EMA_20,The 20-day Exponential Moving Average (EMA) of the NASDAQ index.
+nasdaq_SMA_50,The 50-day Simple Moving Average (SMA) of the NASDAQ index.
+nasdaq_EMA_50,The 50-day Exponential Moving Average (EMA) of the NASDAQ index.
+nasdaq_SMA_100,The 100-day Simple Moving Average (SMA) of the NASDAQ index.
+nasdaq_SMA_200,The 200-day Simple Moving Average (SMA) of the NASDAQ index.
+nasdaq_EMA_100,The 100-day Exponential Moving Average (EMA) of the NASDAQ index.
+nasdaq_EMA_200,The 200-day Exponential Moving Average (EMA) of the NASDAQ index.
+nya_RSI,The Relative Strength Index (RSI) of the NYSE Composite index.
+nya_MACD,The Moving Average Convergence Divergence (MACD) of the NYSE Composite index.
+nya_MACD_signal,The signal line of the MACD for the NYSE Composite index.
+nya_MACD_hist,The histogram of the MACD for the NYSE Composite index.
+nya_ADX,The Average Directional Index (ADX) of the NYSE Composite index.
+nya_CCI,The Commodity Channel Index (CCI) of the NYSE Composite index.
+nya_ROC,The Rate of Change (ROC) of the NYSE Composite index.
+nya_SMA_10,The 10-day Simple Moving Average (SMA) of the NYSE Composite index.
+nya_SMA_20,The 20-day Simple Moving Average (SMA) of the NYSE Composite index.
+nya_EMA_10,The 10-day Exponential Moving Average (EMA) of the NYSE Composite index.
+nya_EMA_20,The 20-day Exponential Moving Average (EMA) of the NYSE Composite index.
+nya_SMA_50,The 50-day Simple Moving Average (SMA) of the NYSE Composite index.
+nya_EMA_50,The 50-day Exponential Moving Average (EMA) of the NYSE Composite index.
+nya_SMA_100,The 100-day Simple Moving Average (SMA) of the NYSE Composite index.
+nya_SMA_200,The 200-day Simple Moving Average (SMA) of the NYSE Composite index.
+nya_EMA_100,The 100-day Exponential Moving Average (EMA) of the NYSE Composite index.
+nya_EMA_200,The 200-day Exponential Moving Average (EMA) of the NYSE Composite index.
+sp500_RSI,The Relative Strength Index (RSI) of the S&P 500 index.
+sp500_MACD,The Moving Average Convergence Divergence (MACD) of the S&P 500 index.
+sp500_MACD_signal,The signal line of the MACD for the S&P 500 index.
+sp500_MACD_hist,The histogram of the MACD for the S&P 500 index.
+sp500_ADX,The Average Directional Index (ADX) of the S&P 500 index.
+sp500_CCI,The Commodity Channel Index (CCI) of the S&P 500 index.
+sp500_ROC,The Rate of Change (ROC) of the S&P 500 index.
+sp500_SMA_10,The 10-day Simple Moving Average (SMA) of the S&P 500 index.
+sp500_SMA_20,The 20-day Simple Moving Average (SMA) of the S&P 500 index.
+sp500_EMA_10,The 10-day Exponential Moving Average (EMA) of the S&P 500 index.
+sp500_EMA_20,The 20-day Exponential Moving Average (EMA) of the S&P 500 index.
+sp500_SMA_50,The 50-day Simple Moving Average (SMA) of the S&P 500 index.
+sp500_EMA_50,The 50-day Exponential Moving Average (EMA) of the S&P 500 index.
+sp500_SMA_100,The 100-day Simple Moving Average (SMA) of the S&P 500 index.
+sp500_SMA_200,The 200-day Simple Moving Average (SMA) of the S&P 500 index.
+sp500_EMA_100,The 100-day Exponential Moving Average (EMA) of the S&P 500 index.
+sp500_EMA_200,The 200-day Exponential Moving Average (EMA) of the S&P 500 index.
+light_crude_oil_RSI,The Relative Strength Index (RSI) of light crude oil prices.
+light_crude_oil_MACD,The Moving Average Convergence Divergence (MACD) of light crude oil prices.
+light_crude_oil_MACD_signal,The signal line of the MACD for light crude oil prices.
+light_crude_oil_MACD_hist,The histogram of the MACD for light crude oil prices.
+light_crude_oil_ADX,The Average Directional Index (ADX) of light crude oil prices.
+light_crude_oil_CCI,The Commodity Channel Index (CCI) of light crude oil prices.
+light_crude_oil_ROC,The Rate of Change (ROC) of light crude oil prices.
+light_crude_oil_SMA_10,The 10-day Simple Moving Average (SMA) of light crude oil prices.
+light_crude_oil_SMA_20,The 20-day Simple Moving Average (SMA) of light crude oil prices.
+light_crude_oil_EMA_10,The 10-day Exponential Moving Average (EMA) of light crude oil prices.
+light_crude_oil_EMA_20,The 20-day Exponential Moving Average (EMA) of light crude oil prices.
+light_crude_oil_SMA_50,The 50-day Simple Moving Average (SMA) of light crude oil prices.
+light_crude_oil_EMA_50,The 50-day Exponential Moving Average (EMA) of light crude oil prices.
+light_crude_oil_SMA_100,The 100-day Simple Moving Average (SMA) of light crude oil prices.
+light_crude_oil_SMA_200,The 200-day Simple Moving Average (SMA) of light crude oil prices.
+light_crude_oil_EMA_100,The 100-day Exponential Moving Average (EMA) of light crude oil prices.
+light_crude_oil_EMA_200,The 200-day Exponential Moving Average (EMA) of light crude oil prices.
+btc_RSI,The Relative Strength Index (RSI) of Bitcoin (BTC).
+btc_MACD,The Moving Average Convergence Divergence (MACD) of Bitcoin (BTC).
+btc_MACD_signal,The signal line of the MACD for Bitcoin (BTC).
+btc_MACD_hist,The histogram of the MACD for Bitcoin (BTC).
+btc_ADX,The Average Directional Index (ADX) of Bitcoin (BTC).
+btc_CCI,The Commodity Channel Index (CCI) of Bitcoin (BTC).
+btc_ROC,The Rate of Change (ROC) of Bitcoin (BTC).
+btc_SMA_10,The 10-day Simple Moving Average (SMA) of Bitcoin (BTC).
+btc_SMA_20,The 20-day Simple Moving Average (SMA) of Bitcoin (BTC).
+btc_EMA_10,The 10-day Exponential Moving Average (EMA) of Bitcoin (BTC).
+btc_EMA_20,The 20-day Exponential Moving Average (EMA) of Bitcoin (BTC).
+btc_SMA_50,The 50-day Simple Moving Average (SMA) of Bitcoin (BTC).
+btc_EMA_50,The 50-day Exponential Moving Average (EMA) of Bitcoin (BTC).
+btc_SMA_100,The 100-day Simple Moving Average (SMA) of Bitcoin (BTC).
+btc_SMA_200,The 200-day Simple Moving Average (SMA) of Bitcoin (BTC).
+btc_EMA_100,The 100-day Exponential Moving Average (EMA) of Bitcoin (BTC).
+btc_EMA_200,The 200-day Exponential Moving Average (EMA) of Bitcoin (BTC).
+total_crypto_cap_RSI,The Relative Strength Index (RSI) of the total cryptocurrency market capitalization.
+total_crypto_cap_MACD,The Moving Average Convergence Divergence (MACD) of the total cryptocurrency market capitalization.
+total_crypto_cap_MACD_signal,The signal line of the MACD for the total cryptocurrency market capitalization.
+total_crypto_cap_MACD_hist,The histogram of the MACD for the total cryptocurrency market capitalization.
+total_crypto_cap_ADX,The Average Directional Index (ADX) of the total cryptocurrency market capitalization.
+total_crypto_cap_CCI,The Commodity Channel Index (CCI) of the total cryptocurrency market capitalization.
+total_crypto_cap_ROC,The Rate of Change (ROC) of the total cryptocurrency market capitalization.
+total_crypto_cap_SMA_10,The 10-day Simple Moving Average (SMA) of the total cryptocurrency market capitalization.
+total_crypto_cap_SMA_20,The 20-day Simple Moving Average (SMA) of the total cryptocurrency market capitalization.
+total_crypto_cap_EMA_10,The 10-day Exponential Moving Average (EMA) of the total cryptocurrency market capitalization.
+total_crypto_cap_EMA_20,The 20-day Exponential Moving Average (EMA) of the total cryptocurrency market capitalization.
+total_crypto_cap_SMA_50,The 50-day Simple Moving Average (SMA) of the total cryptocurrency market capitalization.
+total_crypto_cap_EMA_50,The 50-day Exponential Moving Average (EMA) of the total cryptocurrency market capitalization.
+total_crypto_cap_SMA_100,The 100-day Simple Moving Average (SMA) of the total cryptocurrency market capitalization.
+total_crypto_cap_SMA_200,The 200-day Simple Moving Average (SMA) of the total cryptocurrency market capitalization.
+total_crypto_cap_EMA_100,The 100-day Exponential Moving Average (EMA) of the total cryptocurrency market capitalization.
+total_crypto_cap_EMA_200,The 200-day Exponential Moving Average (EMA) of the total cryptocurrency market capitalization.
